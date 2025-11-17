@@ -12,8 +12,8 @@
 - 🧪 Analista de QA desde 2022
 - 🔍 Explorando o mundo da automação de testes com Selenium + Python
 - 🧠 Estudando JavaScript, Postman e SQL
-- 🏠 Mãe, dona de casa e dev multitarefas
-- 🔮 Macumbeira com orgulho e apaixonada por tecnologia e magia
+- 🏠 Mãe, dona de casa e QA multitarefas
+  
 
 ---
 
