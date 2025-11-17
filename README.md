@@ -57,10 +57,8 @@
 
 ---
 
-59 
-60 <div align="center">
-61     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBsMHAzZXIzNzllZTlqM2hlY3VobnYxZno3bmRlbXBwaXU5b3lmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" width="300" />
-62     <br><br>
-63     <b>✨ Códigos, feitiços e força feminina. ✨</b>
-64 </div>
-65
+60<div align="center">
+    <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="300" />
+    <br><br>
+    <b>✨ Códigos, feitiços e força feminina. ✨</b>
+</div>
