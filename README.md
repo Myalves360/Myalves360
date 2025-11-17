@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/GB6qkAvTyB1r8sOPuS/giphy.gif](https://i.ibb.co/L51H78D/maga-do-qa.png)" width="300"/>
+    <img src="https://i.ibb.co/L51H78D/maga-do-qa.png" width="300" />
     <br><br>
     <b>✨ Códigos, feitiços e força feminina. ✨</b>
- </div>
+</div>
