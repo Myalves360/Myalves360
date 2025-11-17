@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="300"" />
     <br><br>
     <b>✨ Códigos, feitiços e força feminina. ✨</b>
  </div>
