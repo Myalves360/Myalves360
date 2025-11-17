@@ -56,8 +56,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylenaferreira284629@gmail.com)
 
 ---
-
-60<div align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="300" />
     <br><br>
     <b>✨ Códigos, feitiços e força feminina. ✨</b>
