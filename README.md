@@ -56,8 +56,9 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylenaferreira284629@gmail.com)
 
 ---
-<div align="center">
-    <img src="[https://i.imgur.com/uRkLz5Y.png" width="300](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBsMHAzZXIzNzllZTlqM2hlY3VobnYxZno3bmRlbXBwaXU5b3lmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)" />
-    <br><br>
-    <b>✨ Códigos, feitiços e força feminina. ✨</b>
+
+ <div align="center">
+   <img src="https://i.imgur.com/uRkLz5Y.png" width="300" />
+<br><br>
+<b>✨ Códigos, feitiços e força feminina. ✨</b>
 </div>
